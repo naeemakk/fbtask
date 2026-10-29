@@ -1,0 +1,134 @@
+ *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.fbheader{
+    background-color: #3b5998;
+    padding: 14px;
+    position: relative;
+}
+.fblogo{
+    color: white;
+}
+.logform{
+    position: absolute;
+    right: 30px;
+    top: 18px;
+}
+#emaillab{
+    position: absolute;
+    top: -16px;
+    color: white;
+}
+#pswdlab{
+    position: absolute;
+    top: -16px;
+    color: white;
+}
+#logbtn{
+    background-color: #4267b2;
+    color: white;
+}
+#keeplog{
+    position: absolute;
+    top: 20px;
+    color: white;
+    left: 3px;
+}
+#frgt{
+    position: absolute;
+    right: 91px;
+    bottom: -18px;
+    color: white;
+}        
+
+
+#sign{
+    font-size: 35px;
+    position: absolute;
+    top: 75px;
+    right: 190px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#scnd{
+    position: absolute;
+    top: 120px;
+    right: 140px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#fname{
+    position: absolute;
+    top: 163px;
+    right: 229px;
+}
+#lname{
+    position: absolute;
+    top: 163px;
+    right: 48px;
+}
+#eml{
+    position: absolute;
+    top: 200px;
+    right: 48px;
+}
+#nwpswd{
+    position: absolute;
+    top: 236px;
+    right: 48px;
+}
+#dob{
+    position: absolute;
+    top: 273px;
+    right: 300px;
+}
+#date{
+    position:absolute;
+    top: 297px;
+    right: 278px;
+}
+#gender{
+    position:absolute;
+    top: 334px; 
+    right: 228px;
+}
+#whybrd{
+    position: absolute;
+    top: 297px;
+    right: 38px;
+    font-size: 15px;
+}
+#terms{
+    position: absolute;
+    top: 371px;
+    right: 25px;
+}
+#signup{
+    position: absolute;
+    font-size: large;
+    top: 450px;
+    right: 261px;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+}
+#main{
+    position: absolute;
+    left: 45px;
+    top: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    z-index: 2;
+}
+img{
+    position: absolute;
+    left: 5%;
+    top: 178px;
+    z-index: 1;
+    width: 35%;
+    max-width: 500px;
+}
