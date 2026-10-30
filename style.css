@@ -132,3 +132,7 @@ img{
     width: 35%;
     max-width: 500px;
 }
+img{
+    background: transparent;
+    border: none;
+}
